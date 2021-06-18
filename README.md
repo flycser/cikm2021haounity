@@ -6,4 +6,4 @@ This is the video for demonstration.
 
 ## supplements.pdf
 
-This file gives extra supplements of experiments in the paper.
+This file gives extra details of experiments in the paper.
